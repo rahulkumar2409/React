@@ -14,7 +14,7 @@ function HelloWorld() {
 function App() {
   return <div>
   <Nav />
-  <Promo off="40%" />
+  <Promo off="60%" />
   <Intro1 />
   <Intro2 />
   <Intro3 />
